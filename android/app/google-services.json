@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "651646029990",
+    "firebase_url": "https://meetingtest-b2b6a.firebaseio.com",
+    "project_id": "meetingtest-b2b6a",
+    "storage_bucket": "meetingtest-b2b6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651646029990:android:fbc1e12a9e63980d6b2467",
+        "android_client_info": {
+          "package_name": "com.example.A"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651646029990-oh95v8q0etkreikdofmmjmnbf5dqbd9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGmLgWEbxTUeYksk1Vj92pmfzlyLEa_Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651646029990-oh95v8q0etkreikdofmmjmnbf5dqbd9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651646029990:android:417997b8ae0d8d4f6b2467",
+        "android_client_info": {
+          "package_name": "com.example.UiDesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651646029990-oh95v8q0etkreikdofmmjmnbf5dqbd9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGmLgWEbxTUeYksk1Vj92pmfzlyLEa_Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651646029990-oh95v8q0etkreikdofmmjmnbf5dqbd9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
